@@ -33,17 +33,17 @@ The purpose of this analysis is to build a machine learning model that will use 
 
 ![cluster centroid](https://user-images.githubusercontent.com/81889167/128803663-ed9cb0fe-fc60-401b-b0f6-6d826f755494.png)
 
-- Accuracy Score: 51.3%
+- Accuracy Score: 51.5%
 - Precision High Risk: 0%
 - Precision Low Risk: 100%
-- Recall High Risk: 61%
-- Recall Low Risk: 42%
+- Recall High Risk: 59%
+- Recall Low Risk: 44%
 
 4. SMOTEENN Sampling
 
 ![smoteenn](https://user-images.githubusercontent.com/81889167/128803679-f4dfd83c-410b-4f8b-8827-29b80270fff8.png)
 
-- Accuracy Score: 68.1%
+- Accuracy Score: 61%
 - Precision High Risk: 1%
 - Precision Low Risk: 100%
 - Recall High Risk: 76%
